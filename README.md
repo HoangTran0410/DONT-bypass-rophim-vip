@@ -49,16 +49,22 @@ Hai việc khác bản chất:
 
 Hai chuyện ngược hướng nhau hoàn toàn.
 
-## ⚖️ Điểm pháp lý đơn giản
-
-📜 Bản quyền (copyright) không phụ thuộc xem nội dung có nguồn gốc từ đâu.
-
-🧱 Điều được pháp lý bảo vệ: code mà bạn tạo ra, không phải phim, không phải dữ liệu nền.
-
-→ Nghĩa là dù bạn làm extension cho web lậu, thì code bạn viết vẫn được bảo hộ và ai ăn cắp code đó → vẫn vi phạm bản quyền.
-
 ## 🗣️ Tóm cái váy lại
 
-"Việc trang web đó đúng hay sai không liên quan. Tôi đang nói về phần code tôi viết, và code đó thuộc quyền sở hữu trí tuệ của tôi.
+Tôi đăng bài khuyên mn không nên dùng crack, nhất là bản crack mã hoá như này, người khác (hoặc chính tác giả), nếu giải mã đc, thèn thêm mã độc, thì với người thường họ ko phân biệt được,
+
+Tôi vẫn tôn trọng bạn, không công khai bản giải mã, cho b còn cái để mà giữ :)
+
+Nhưng bạn làm nghiêm trọng hoá vấn đề, crack luôn sản phẩm của tôi, thì tôi cũng không còn gì để giấu diếm nữa, show cả bản giải mã, lần phương thức crack.
+
+Có qua có lại nhé.
+
+Việc trang web rophim đó đúng hay sai không liên quan.
 Bẻ khóa, sửa đổi, rồi phát tán lại là vi phạm bản quyền, bất kể bối cảnh.
 Các ví dụ như adblock hay obfuscation bạn đưa ra là so sánh sai bản chất."
+
+## "Tâm sự"
+
+[Show code giải mã](https://www.facebook.com/groups/fbaio/posts/1776339249687422)
+
+[Quen thói đi crack](https://www.facebook.com/groups/fbaio/posts/1775743509746996)
