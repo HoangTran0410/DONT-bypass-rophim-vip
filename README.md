@@ -51,7 +51,7 @@ Hai chuyện ngược hướng nhau hoàn toàn.
 
 ## 🗣️ Tóm cái váy lại
 
-Tôi đăng bài khuyên mn không nên dùng crack, nhất là bản crack mã hoá như này, người khác (hoặc chính tác giả), nếu giải mã đc, thèn thêm mã độc, thì với người thường họ ko phân biệt được,
+Tôi đăng bài khuyên mn không nên dùng crack, nhất là bản crack mã hoá như này, người khác (hoặc chính tác giả), nếu giải mã đc, chèn thêm mã độc, thì với người thường họ ko phân biệt được,
 
 Tôi vẫn tôn trọng bạn, không công khai bản giải mã, cho b còn cái để mà giữ :)
 
