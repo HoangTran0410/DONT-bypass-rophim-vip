@@ -68,3 +68,5 @@ Các ví dụ như adblock hay obfuscation bạn đưa ra là so sánh sai bản
 [Show code giải mã](https://www.facebook.com/groups/fbaio/posts/1776339249687422)
 
 [Quen thói đi crack](https://www.facebook.com/groups/fbaio/posts/1775743509746996)
+
+[Cách tránh bị crack](https://www.facebook.com/groups/fbaio/posts/1777150806272933)
