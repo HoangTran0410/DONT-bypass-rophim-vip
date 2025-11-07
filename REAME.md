@@ -1,9 +1,5 @@
 ## Mình đã gỡ các đoạn code liên quan tới crack, vì dù để cảnh báo hay chia sẻ kiến thức, thì việc phát tán code như vậy cũng là sai trái
 
-[Đọc full chat tại đây](https://chatgpt.com/share/690da8d0-d948-8001-a922-39f34295a711)
-
-[MR tương tác nhau](https://github.com/firetofficial/bypass-rophim-vip/pull/2)
-
 ## Timeline
 
 [1. Bài cảnh báo crack](https://www.facebook.com/groups/fbaio/posts/1776339249687422)
@@ -11,6 +7,10 @@
 [2. Bị cracker trả thù](https://www.facebook.com/groups/fbaio/posts/1775743509746996)
 
 [3. Admin trả thù + cách tránh bị crack](https://www.facebook.com/groups/fbaio/posts/1777150806272933)
+
+[4. MR tương tác nhau](https://github.com/firetofficial/bypass-rophim-vip/pull/2)
+
+[5. Nhờ ChatGPT phân xử cho công bằng](https://chatgpt.com/share/690da8d0-d948-8001-a922-39f34295a711)
 
 # ChatGPT trung lập
 
