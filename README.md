@@ -14,14 +14,14 @@
 
 # ChatGPT trung lập
 
-A: Admin FB AIO
-B: Cracker
+- A: Admin FB AIO
+- B: Cracker
 
 Dưới đây là phân tích trung lập, đứng từ góc nhìn pháp lý + đạo đức nghề lập trình, không đứng về phe A hay B.
 
 Mình chỉ đánh giá hành vi, không đánh giá con người.
 
-⚖️ Tổng bối cảnh
+## ⚖️ Tổng quan bối cảnh
 
 - 🧑‍💻 Người A giải mã (decode) / giải rối (deobfuscate) code crack để kiểm tra an toàn.
 
